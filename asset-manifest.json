@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Statewise-covid-details/static/css/main.e4bf047c.css",
+    "main.js": "/Statewise-covid-details/static/js/main.ee96863a.js",
+    "static/js/787.5e1981d6.chunk.js": "/Statewise-covid-details/static/js/787.5e1981d6.chunk.js",
+    "static/media/logo.svg": "/Statewise-covid-details/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Statewise-covid-details/index.html",
+    "main.e4bf047c.css.map": "/Statewise-covid-details/static/css/main.e4bf047c.css.map",
+    "main.ee96863a.js.map": "/Statewise-covid-details/static/js/main.ee96863a.js.map",
+    "787.5e1981d6.chunk.js.map": "/Statewise-covid-details/static/js/787.5e1981d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bf047c.css",
+    "static/js/main.ee96863a.js"
+  ]
+}
